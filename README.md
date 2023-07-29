@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&pause=1000&width=435&lines=Samia+shosi++.+.+.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&pause=1000&width=435&lines=Samia+Shosi++.+.+.+)](https://git.io/typing-svg)
 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiashosi&show_icons=true&locale=en&layout=compact" alt="samiashosi" /></p>---> 
